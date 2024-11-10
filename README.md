@@ -5,6 +5,7 @@
 In this evaluation I carried out this analysis using SQL including exploratory data analysis (EDA) to determine sales quarterly performance and how each quarter differed from the previous one to examine possible trends throughout the year. 
 
 I also examine which products are doing better each quarter and generally to help the company establish a benchmark for other products encouraging performance improvement across their product line. 
+
 I also look into the customer performance to determine customers that generally performned better than the average sales allowing the organization to identify key customer segments that drive sales to allow for targetted marketing strategies. 
 
 Data cleaning of the dataset was carried out in Excel. 
