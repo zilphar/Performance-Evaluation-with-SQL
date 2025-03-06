@@ -1,4 +1,4 @@
-# Strategic-Hotel-Performance-Evaluation
+# Hotel-Sales-Performance-Evaluation
 
 **<ins> Introduction </ins>**
 
